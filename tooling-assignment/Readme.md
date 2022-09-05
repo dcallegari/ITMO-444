@@ -53,7 +53,7 @@ System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 For Windows 10 or 11, place a screenshot of the version command output for: ```choco --version```.
 
-![*Chocolatey Version*](/images/ToolingAssignment1/01-choco_version.png)
+![*Chocolatey Version*](/images/Week-01/01-choco_version.png)
 
 ### Commands to run and install all the software
 
@@ -95,7 +95,7 @@ For MacOS, newer versions use the Z shell.  This is due to Apple not using GPLv3
 
 Open a terminal and type the commands: `zsh --version` and `ssh -V` and take a screenshot of the output
 
-![*SSH Version*](/images/ToolingAssignment1/02-ssh_version.png)
+![*SSH Version*](/images/Week-01/02-ssh_version.png)
 
 ### Installation of a Modern Terminal
 
@@ -105,7 +105,7 @@ On Windows, Microsoft provides a [Windows Terminal](https://www.microsoft.com/en
 
 Open the Windows Terminal and select from the drop down arrow, the ABOUT tab, and take a screenshot of the version output
 
-![*Windows Terminal About*](/images/ToolingAssignment1/03-win_terminal_version.png)
+![*Windows Terminal About*](/images/Week-01/03-win_terminal_version.png)
 
 On MacOS, there is a terminal called [iterm2](https://iterm2.com/ "MacOS shell terminal")
 
@@ -126,7 +126,7 @@ We will be installing an text editor or and IDE for all of our coding and config
 
 Take a screenshot from the ABOUT tab in your IDE to show the installed version
 
-![*VS Code About*](/images/ToolingAssignment1/04-vscode_version.png)
+![*VS Code About*](/images/Week-01/04-vscode_version.png)
 
 ### Install Git Client for Version Control
 
@@ -134,7 +134,7 @@ Version Control is vital to modern software development and we will be using our
 
 Take a screenshot of the output of the command: ```git --version```
 
-![*Git Version*](/images/ToolingAssignment1/05-git_version.png)
+![*Git Version*](/images/Week-01/05-git_version.png)
 
 #### Configure Git Client
 
@@ -158,7 +158,7 @@ If you do not already have VirtualBox 6.x installed, use your package manager to
 
 Take a screenshot of the VirtualBox > Help > About VirtualBox output or from the Terminal: `vboxmanage --version` (Windows or Intel MacOS)
 
-![*VirtualBox About*](/images/ToolingAssignment1/06-vbox_version.png)
+![*VirtualBox About*](/images/Week-01/06-vbox_version.png)
 
 For those using an M1 Mac we will require a [Pro License from Parallels](https://www.parallels.com/products/desktop/pro/ "Pro License form parallels.com website").
 
@@ -174,7 +174,7 @@ Using your package manager, install the latest version of [Vagrant](https://vagr
 
 Take a screenshot of the output of the command: ```vagrant --version```
 
-![*Vagrant Version*](/images/ToolingAssignment1/07-vagrant_version.png)
+![*Vagrant Version*](/images/Week-01/07-vagrant_version.png)
 
 ### Install Packer.io
 
@@ -184,7 +184,7 @@ Using a package manager, install the latest version of [Packer](https://packer.i
 
 Take a screenshot of the output of the command: ```packer --version```
 
-![*Packer Version*](/images/ToolingAssignment1/08-packer_version.png)
+![*Packer Version*](/images/Week-01/08-packer_version.png)
 
 ### Git-It Tutorial
 
@@ -192,7 +192,7 @@ Download, extract, and execute the Git-it tutorial, located: [https://github.com
 
 Next we can download and extract the [Git-it Tutorial](https://github.com/jlord/git-it-electron/ "Git-it install Page"). Git-it is a desktop (Mac, Windows and Linux) app that teaches you how to use Git and GitHub on the command line.  Releases can be found under the [Release Tab](https://github.com/jlord/git-it-electron/releases "Git-it Download Releases").  Extract the file, execute the file `Git-it`. Upon a completion of the tutorial take a screenshot of your completion badge (or dots).]
 
-![*Git-it Completion Badge*](/images/ToolingAssignment1/DCallegari_Git-It_Complete.png)
+![*Git-it Completion Badge*](/images/Week-01/DCallegari_Git-It_Complete.png)
 
 ## Tooling Assignment Part II
 
